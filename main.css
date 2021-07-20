@@ -1,0 +1,38 @@
+css
+body {
+    font-family: 'Times New Roman';
+    font-size: 30px;
+}
+
+ul {
+    font-family: Mistral;
+    font-size: 26px;
+}
+
+
+li {
+    list-style: armenian;
+}
+
+.list {
+    list-style: disc;
+}
+/*Header 1 */
+#heady1 {
+    font-family: Arial;
+    font-size: 45px;
+}
+/*First paragraph*/
+#fonty {
+    font-family: Mistral;
+    font-size: 30px;
+}
+
+
+.light-theme{
+    color: gold;
+    background-color:darkred;
+}
+
+
+
